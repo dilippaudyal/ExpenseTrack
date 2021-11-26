@@ -25,7 +25,7 @@ An expense tracker app built using Android(Kotlin). The app is built on Model-Vi
 Step 1:
 Clone the repository.
 ```
-git clone https://github.com/vaibhavjain30699/Expense.git
+git clone https://github.com/dilippaudyal/ExpenseTrack.git
 ```
 
 Step 2:
